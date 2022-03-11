@@ -1,4 +1,5 @@
 # MAF_FJD_scripts
+Pipeline and tasks to update the FJD database of allele frequency.
 
 ## Developers
 ### Main developers
